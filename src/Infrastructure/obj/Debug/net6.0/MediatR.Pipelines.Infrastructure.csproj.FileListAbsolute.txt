@@ -1,0 +1,12 @@
+/home/local/FARFETCH/ramon.silva/Documents/Projects/pocs/MediatR_Pipelines/src/Infrastructure/bin/Debug/net6.0/MediatR.Pipelines.Infrastructure.deps.json
+/home/local/FARFETCH/ramon.silva/Documents/Projects/pocs/MediatR_Pipelines/src/Infrastructure/bin/Debug/net6.0/MediatR.Pipelines.Infrastructure.dll
+/home/local/FARFETCH/ramon.silva/Documents/Projects/pocs/MediatR_Pipelines/src/Infrastructure/bin/Debug/net6.0/ref/MediatR.Pipelines.Infrastructure.dll
+/home/local/FARFETCH/ramon.silva/Documents/Projects/pocs/MediatR_Pipelines/src/Infrastructure/bin/Debug/net6.0/MediatR.Pipelines.Infrastructure.pdb
+/home/local/FARFETCH/ramon.silva/Documents/Projects/pocs/MediatR_Pipelines/src/Infrastructure/obj/Debug/net6.0/MediatR.Pipelines.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/local/FARFETCH/ramon.silva/Documents/Projects/pocs/MediatR_Pipelines/src/Infrastructure/obj/Debug/net6.0/MediatR.Pipelines.Infrastructure.AssemblyInfoInputs.cache
+/home/local/FARFETCH/ramon.silva/Documents/Projects/pocs/MediatR_Pipelines/src/Infrastructure/obj/Debug/net6.0/MediatR.Pipelines.Infrastructure.AssemblyInfo.cs
+/home/local/FARFETCH/ramon.silva/Documents/Projects/pocs/MediatR_Pipelines/src/Infrastructure/obj/Debug/net6.0/MediatR.Pipelines.Infrastructure.csproj.CoreCompileInputs.cache
+/home/local/FARFETCH/ramon.silva/Documents/Projects/pocs/MediatR_Pipelines/src/Infrastructure/obj/Debug/net6.0/MediatR.Pipelines.Infrastructure.dll
+/home/local/FARFETCH/ramon.silva/Documents/Projects/pocs/MediatR_Pipelines/src/Infrastructure/obj/Debug/net6.0/ref/MediatR.Pipelines.Infrastructure.dll
+/home/local/FARFETCH/ramon.silva/Documents/Projects/pocs/MediatR_Pipelines/src/Infrastructure/obj/Debug/net6.0/MediatR.Pipelines.Infrastructure.pdb
+/home/local/FARFETCH/ramon.silva/Documents/Projects/pocs/MediatR_Pipelines/src/Infrastructure/obj/Debug/net6.0/MediatR.Pipelines.Infrastructure.csproj.AssemblyReference.cache

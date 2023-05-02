@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N1iGkf0wt1v3QchcAg83LFP85lg/OaLXOkCHuk7GkeM=",
+  "Source": "MediatR.Pipelines.Presentation",
+  "BasePath": "_content/MediatR.Pipelines.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
